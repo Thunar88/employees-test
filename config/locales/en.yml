@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+  success:
+    'true':  'Yes'
+    'false': 'No'
